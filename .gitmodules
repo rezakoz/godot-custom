@@ -1,3 +1,6 @@
 [submodule "modules/luascriptcustom"]
-	path = modules/luascriptcustom
+	path = modules/luascript
+	url = git@github.com:rezakoz/luascriptcustom.git
+[submodule "modules/luascript"]
+	path = modules/luascript
 	url = git@github.com:rezakoz/luascriptcustom.git
